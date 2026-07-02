@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou a Mariana 👋
 
-<!--
-**marianacarli/marianacarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora de Software e Analista de Dados
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia e estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- PHP
+- C#
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- SQL
+- C++
+- Git e GitHub
+
+## 📚 Atualmente
+
+- Aprimorando meus conhecimentos em desenvolvimento web
+- Estudando Inteligência Artificial aplicada ao desenvolvimento
+- Desenvolvendo projetos pessoais para expandir meu portfólio
+
+## 🎯 Objetivos
+
+Busco crescer profissionalmente como desenvolvedora, participando de projetos que gerem impacto e me permitam aprender continuamente.
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/mariana-carli-a7125430/
+- E-mail: marianacarli@gmail.com
+
+⭐ Obrigada por visitar meu perfil!
