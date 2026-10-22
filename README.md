@@ -28,7 +28,7 @@ Busco crescer profissionalmente como desenvolvedora, participando de projetos qu
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/mariana-carli-a7125430/
+- LinkedIn: https://www.linkedin.com/in/marianacarli/
 - E-mail: marianacarli@gmail.com
 
 ⭐ Obrigada por visitar meu perfil!
